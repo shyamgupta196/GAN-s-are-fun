@@ -95,3 +95,4 @@ widgetsnbextension==3.5.1
 xlrd==2.0.1
 yapf==0.32.0
 torch==1.11.0
+torchvision==0.11.3

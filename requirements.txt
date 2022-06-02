@@ -11,8 +11,6 @@ blinker==1.4
 cachetools==5.2.0
 certifi==2022.5.18.1
 cffi==1.15.0
-cargo==0.3
-rust==0.1.1
 charset-normalizer==2.0.12
 click==8.0.4
 colorama==0.4.4
@@ -74,7 +72,6 @@ pywinpty==2.0.5
 pywin <=303
 pyzmq==23.1.0
 qtconsole==5.3.0
-QtPy==2.1.0
 requests==2.27.1
 semver==2.13.0
 Send2Trash==1.8.0

@@ -11,6 +11,7 @@ blinker==1.4
 cachetools==5.2.0
 certifi==2022.5.18.1
 cffi==1.15.0
+cargo-0.3
 charset-normalizer==2.0.12
 click==8.0.4
 colorama==0.4.4

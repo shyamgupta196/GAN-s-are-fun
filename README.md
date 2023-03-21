@@ -19,3 +19,4 @@ The Loss function used in network is BCEwithLogitLoss, which makes sense because
 Use this link to learn to improve gans more!
 
 # 😄Thank's for reading😄
+Checkout [www.sankhyikii.com](https://www.sankhyikii.com/portfolio) for more projects realted to data science 
